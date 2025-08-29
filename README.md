@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kumar<br>🚀 MicroStrategy Administrator | SQL Enthusiast | Python Automation Explorer<br><br>💡 Passionate about business intelligence, data automation, and SQL mastery<br><br>🔧 Building automation scripts in Python (mstrio, APIs) to simplify MicroStrategy admin tasks<br><br>📊 Love solving data problems with SQL — from simple queries to complex optimizations<br><br>📂 Sharing projects, scripts, and learning notes here on GitHub<br><br>🌱 Currently leveling up my Python & GitHub skills to showcase more work<br><br>📬 Always open to connect, share ideas, or collaborate on data + automation projects.
+👋 Hi, I’m Prasanna Kumar<br>🚀 MicroStrategy Administrator | SQL Enthusiast | Python Automation Explorer<br><br>💡 Passionate about business intelligence, data automation, and SQL mastery<br><br>🔧 Building automation scripts in Python (mstrio, APIs) to simplify MicroStrategy admin tasks<br><br>📊 Love solving data problems with SQL — from simple queries to complex optimizations<br><br>📂 Sharing projects, scripts, and learning notes here on GitHub<br><br>🌱 Currently leveling up my Python & GitHub skills to showcase more work<br><br>📬 Always open to connect, share ideas, or collaborate on data + automation projects.
 
 
 ## 🌐 Socials:
